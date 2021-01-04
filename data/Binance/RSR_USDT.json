@@ -1854,5 +1854,13 @@
     "fundingRate": 0.00376228,
     "fundingTime": 1609747200000,
     "fundingTimeStr": "2021-01-04T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "RSR_USDT",
+    "rawPair": "RSRUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609776000000,
+    "fundingTimeStr": "2021-01-04T16:00:00.000Z"
   }
 ]
