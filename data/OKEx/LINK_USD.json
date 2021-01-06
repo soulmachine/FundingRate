@@ -3454,5 +3454,13 @@
     "fundingRate": 0.0004839,
     "fundingTime": 1609920000000,
     "fundingTimeStr": "2021-01-06T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "LINK_USD",
+    "rawPair": "LINK-USD-SWAP",
+    "fundingRate": 0.00078991,
+    "fundingTime": 1609948800000,
+    "fundingTimeStr": "2021-01-06T16:00:00.000Z"
   }
 ]

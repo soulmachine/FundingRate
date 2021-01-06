@@ -7718,5 +7718,13 @@
     "fundingRate": 0.00056085,
     "fundingTime": 1609891200010,
     "fundingTimeStr": "2021-01-06T00:00:00.010Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "QTUM_USDT",
+    "rawPair": "QTUMUSDT",
+    "fundingRate": 0.00139123,
+    "fundingTime": 1609920000003,
+    "fundingTimeStr": "2021-01-06T08:00:00.003Z"
   }
 ]
