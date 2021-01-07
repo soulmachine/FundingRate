@@ -3470,5 +3470,13 @@
     "fundingRate": 0.00264989,
     "fundingTime": 1609977600000,
     "fundingTimeStr": "2021-01-07T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "IOST_USDT",
+    "rawPair": "IOST-USDT-SWAP",
+    "fundingRate": 0.00145955,
+    "fundingTime": 1610006400000,
+    "fundingTimeStr": "2021-01-07T08:00:00.000Z"
   }
 ]
