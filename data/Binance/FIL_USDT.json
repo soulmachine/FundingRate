@@ -2006,5 +2006,13 @@
     "fundingRate": 0.00222768,
     "fundingTime": 1610035200004,
     "fundingTimeStr": "2021-01-07T16:00:00.004Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "FIL_USDT",
+    "rawPair": "FILUSDT",
+    "fundingRate": 0.00124656,
+    "fundingTime": 1610064000000,
+    "fundingTimeStr": "2021-01-08T00:00:00.000Z"
   }
 ]
