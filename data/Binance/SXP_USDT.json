@@ -4110,5 +4110,13 @@
     "fundingRate": 0.00091094,
     "fundingTime": 1610092800000,
     "fundingTimeStr": "2021-01-08T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "SXP_USDT",
+    "rawPair": "SXPUSDT",
+    "fundingRate": 0.0018006,
+    "fundingTime": 1610121600000,
+    "fundingTimeStr": "2021-01-08T16:00:00.000Z"
   }
 ]
