@@ -8814,5 +8814,13 @@
     "fundingRate": 0.00071794,
     "fundingTime": 1610179200004,
     "fundingTimeStr": "2021-01-09T08:00:00.004Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "EOS_USDT",
+    "rawPair": "EOSUSDT",
+    "fundingRate": 0.00155478,
+    "fundingTime": 1610208000000,
+    "fundingTimeStr": "2021-01-09T16:00:00.000Z"
   }
 ]
