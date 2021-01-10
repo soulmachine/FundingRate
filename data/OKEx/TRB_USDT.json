@@ -2966,5 +2966,13 @@
     "fundingRate": 0.00183866,
     "fundingTime": 1610236800000,
     "fundingTimeStr": "2021-01-10T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "TRB_USDT",
+    "rawPair": "TRB-USDT-SWAP",
+    "fundingRate": 0.00107893,
+    "fundingTime": 1610265600000,
+    "fundingTimeStr": "2021-01-10T08:00:00.000Z"
   }
 ]
