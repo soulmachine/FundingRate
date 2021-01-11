@@ -558,5 +558,13 @@
     "fundingRate": -0.00049614,
     "fundingTime": 1610352000012,
     "fundingTimeStr": "2021-01-11T08:00:00.012Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "GRT_USDT",
+    "rawPair": "GRTUSDT",
+    "fundingRate": -0.00003225,
+    "fundingTime": 1610380800000,
+    "fundingTimeStr": "2021-01-11T16:00:00.000Z"
   }
 ]
