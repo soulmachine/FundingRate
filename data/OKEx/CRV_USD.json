@@ -3094,5 +3094,13 @@
     "fundingRate": -0.0006568,
     "fundingTime": 1610323200000,
     "fundingTimeStr": "2021-01-11T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "CRV_USD",
+    "rawPair": "CRV-USD-SWAP",
+    "fundingRate": 0.00283714,
+    "fundingTime": 1610352000000,
+    "fundingTimeStr": "2021-01-11T08:00:00.000Z"
   }
 ]

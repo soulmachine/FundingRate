@@ -4814,5 +4814,13 @@
     "fundingRate": 0.00064289,
     "fundingTime": 1610294400000,
     "fundingTimeStr": "2021-01-10T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ZRX_USDT",
+    "rawPair": "ZRXUSDT",
+    "fundingRate": 0.00060929,
+    "fundingTime": 1610323200000,
+    "fundingTimeStr": "2021-01-11T00:00:00.000Z"
   }
 ]
