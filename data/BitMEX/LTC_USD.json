@@ -4142,5 +4142,13 @@
     "fundingRate": 0.00214,
     "fundingTime": 1611000000000,
     "fundingTimeStr": "2021-01-18T20:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "LTC_USD",
+    "rawPair": "LTCUSD",
+    "fundingRate": 0.003061,
+    "fundingTime": 1611028800000,
+    "fundingTimeStr": "2021-01-19T04:00:00.000Z"
   }
 ]
