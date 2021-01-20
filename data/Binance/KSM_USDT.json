@@ -2350,5 +2350,13 @@
     "fundingRate": 0.00070712,
     "fundingTime": 1611100800012,
     "fundingTimeStr": "2021-01-20T00:00:00.012Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "KSM_USDT",
+    "rawPair": "KSMUSDT",
+    "fundingRate": 0.00031583,
+    "fundingTime": 1611129600001,
+    "fundingTimeStr": "2021-01-20T08:00:00.001Z"
   }
 ]

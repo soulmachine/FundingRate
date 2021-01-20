@@ -3334,5 +3334,13 @@
     "fundingRate": 0.00003161,
     "fundingTime": 1611129600000,
     "fundingTimeStr": "2021-01-20T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "SUSHI_USD",
+    "rawPair": "SUSHI-USD-SWAP",
+    "fundingRate": 0.00115204,
+    "fundingTime": 1611158400000,
+    "fundingTimeStr": "2021-01-20T16:00:00.000Z"
   }
 ]

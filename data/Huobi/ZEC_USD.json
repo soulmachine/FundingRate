@@ -6502,5 +6502,13 @@
     "fundingRate": 0.000898169066286798,
     "fundingTime": 1611100800000,
     "fundingTimeStr": "2021-01-20T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "ZEC_USD",
+    "rawPair": "ZEC-USD",
+    "fundingRate": 0.000686184524683181,
+    "fundingTime": 1611129600000,
+    "fundingTimeStr": "2021-01-20T08:00:00.000Z"
   }
 ]

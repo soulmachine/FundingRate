@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "exchange": "Binance",
+    "pair": "DOTECO_USDT",
+    "rawPair": "DOTECOUSDT",
+    "fundingRate": 0.00059595,
+    "fundingTime": 1611129600001,
+    "fundingTimeStr": "2021-01-20T08:00:00.001Z"
+  }
+]
