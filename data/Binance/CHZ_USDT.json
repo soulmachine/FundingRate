@@ -1,0 +1,578 @@
+[
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609142400019,
+    "fundingTimeStr": "2020-12-28T08:00:00.019Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609171200000,
+    "fundingTimeStr": "2020-12-28T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609200000004,
+    "fundingTimeStr": "2020-12-29T00:00:00.004Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609228800003,
+    "fundingTimeStr": "2020-12-29T08:00:00.003Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609257600000,
+    "fundingTimeStr": "2020-12-29T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609286400001,
+    "fundingTimeStr": "2020-12-30T00:00:00.001Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609315200001,
+    "fundingTimeStr": "2020-12-30T08:00:00.001Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609344000012,
+    "fundingTimeStr": "2020-12-30T16:00:00.012Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609372800009,
+    "fundingTimeStr": "2020-12-31T00:00:00.009Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609401600000,
+    "fundingTimeStr": "2020-12-31T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609430400010,
+    "fundingTimeStr": "2020-12-31T16:00:00.010Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609459200002,
+    "fundingTimeStr": "2021-01-01T00:00:00.002Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609488000006,
+    "fundingTimeStr": "2021-01-01T08:00:00.006Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609516800003,
+    "fundingTimeStr": "2021-01-01T16:00:00.003Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609545600000,
+    "fundingTimeStr": "2021-01-02T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609574400000,
+    "fundingTimeStr": "2021-01-02T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609603200006,
+    "fundingTimeStr": "2021-01-02T16:00:00.006Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609632000018,
+    "fundingTimeStr": "2021-01-03T00:00:00.018Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609660800000,
+    "fundingTimeStr": "2021-01-03T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609689600002,
+    "fundingTimeStr": "2021-01-03T16:00:00.002Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609718400000,
+    "fundingTimeStr": "2021-01-04T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609747200000,
+    "fundingTimeStr": "2021-01-04T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609776000000,
+    "fundingTimeStr": "2021-01-04T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609804800020,
+    "fundingTimeStr": "2021-01-05T00:00:00.020Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609833600003,
+    "fundingTimeStr": "2021-01-05T08:00:00.003Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609862400003,
+    "fundingTimeStr": "2021-01-05T16:00:00.003Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609891200010,
+    "fundingTimeStr": "2021-01-06T00:00:00.010Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609920000003,
+    "fundingTimeStr": "2021-01-06T08:00:00.003Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609948800000,
+    "fundingTimeStr": "2021-01-06T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1609977600007,
+    "fundingTimeStr": "2021-01-07T00:00:00.007Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610006400000,
+    "fundingTimeStr": "2021-01-07T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610035200004,
+    "fundingTimeStr": "2021-01-07T16:00:00.004Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610064000000,
+    "fundingTimeStr": "2021-01-08T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610092800000,
+    "fundingTimeStr": "2021-01-08T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610121600000,
+    "fundingTimeStr": "2021-01-08T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610150400009,
+    "fundingTimeStr": "2021-01-09T00:00:00.009Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610179200004,
+    "fundingTimeStr": "2021-01-09T08:00:00.004Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610208000000,
+    "fundingTimeStr": "2021-01-09T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610236800000,
+    "fundingTimeStr": "2021-01-10T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610265600005,
+    "fundingTimeStr": "2021-01-10T08:00:00.005Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610294400000,
+    "fundingTimeStr": "2021-01-10T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610323200000,
+    "fundingTimeStr": "2021-01-11T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610352000012,
+    "fundingTimeStr": "2021-01-11T08:00:00.012Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610380800000,
+    "fundingTimeStr": "2021-01-11T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610409600000,
+    "fundingTimeStr": "2021-01-12T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610438400000,
+    "fundingTimeStr": "2021-01-12T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610467200008,
+    "fundingTimeStr": "2021-01-12T16:00:00.008Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610496000001,
+    "fundingTimeStr": "2021-01-13T00:00:00.001Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610524800000,
+    "fundingTimeStr": "2021-01-13T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610553600003,
+    "fundingTimeStr": "2021-01-13T16:00:00.003Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610582400000,
+    "fundingTimeStr": "2021-01-14T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610611200012,
+    "fundingTimeStr": "2021-01-14T08:00:00.012Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610640000000,
+    "fundingTimeStr": "2021-01-14T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610668800002,
+    "fundingTimeStr": "2021-01-15T00:00:00.002Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610697600000,
+    "fundingTimeStr": "2021-01-15T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610726400004,
+    "fundingTimeStr": "2021-01-15T16:00:00.004Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610755200000,
+    "fundingTimeStr": "2021-01-16T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610784000008,
+    "fundingTimeStr": "2021-01-16T08:00:00.008Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610812800000,
+    "fundingTimeStr": "2021-01-16T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610841600009,
+    "fundingTimeStr": "2021-01-17T00:00:00.009Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610870400000,
+    "fundingTimeStr": "2021-01-17T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610899200001,
+    "fundingTimeStr": "2021-01-17T16:00:00.001Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610928000000,
+    "fundingTimeStr": "2021-01-18T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610956800004,
+    "fundingTimeStr": "2021-01-18T08:00:00.004Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1610985600000,
+    "fundingTimeStr": "2021-01-18T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1611014400000,
+    "fundingTimeStr": "2021-01-19T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1611043200005,
+    "fundingTimeStr": "2021-01-19T08:00:00.005Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1611072000012,
+    "fundingTimeStr": "2021-01-19T16:00:00.012Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1611100800012,
+    "fundingTimeStr": "2021-01-20T00:00:00.012Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1611129600001,
+    "fundingTimeStr": "2021-01-20T08:00:00.001Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1611158400001,
+    "fundingTimeStr": "2021-01-20T16:00:00.001Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.0001,
+    "fundingTime": 1611187200000,
+    "fundingTimeStr": "2021-01-21T00:00:00.000Z"
+  }
+]
