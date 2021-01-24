@@ -2334,5 +2334,13 @@
     "fundingRate": 0.00055545,
     "fundingTime": 1611475200011,
     "fundingTimeStr": "2021-01-24T08:00:00.011Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "LRC_USDT",
+    "rawPair": "LRCUSDT",
+    "fundingRate": 0.00031432,
+    "fundingTime": 1611504000005,
+    "fundingTimeStr": "2021-01-24T16:00:00.005Z"
   }
 ]
