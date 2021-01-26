@@ -1,32 +1,24 @@
 [
   {
     "exchange": "Binance",
-    "pair": "SAND_USDT",
-    "rawPair": "SANDUSDT",
-    "fundingRate": 0.0001,
-    "fundingTime": 1611561600012,
-    "fundingTimeStr": "2021-01-25T08:00:00.012Z"
-  },
-  {
-    "exchange": "Binance",
-    "pair": "SAND_USDT",
-    "rawPair": "SANDUSDT",
+    "pair": "ANKR_USDT",
+    "rawPair": "ANKRUSDT",
     "fundingRate": 0.0001,
     "fundingTime": 1611590400000,
     "fundingTimeStr": "2021-01-25T16:00:00.000Z"
   },
   {
     "exchange": "Binance",
-    "pair": "SAND_USDT",
-    "rawPair": "SANDUSDT",
+    "pair": "ANKR_USDT",
+    "rawPair": "ANKRUSDT",
     "fundingRate": 0.0001,
     "fundingTime": 1611619200007,
     "fundingTimeStr": "2021-01-26T00:00:00.007Z"
   },
   {
     "exchange": "Binance",
-    "pair": "SAND_USDT",
-    "rawPair": "SANDUSDT",
+    "pair": "ANKR_USDT",
+    "rawPair": "ANKRUSDT",
     "fundingRate": 0.0001,
     "fundingTime": 1611648000000,
     "fundingTimeStr": "2021-01-26T08:00:00.000Z"
