@@ -3926,5 +3926,13 @@
     "fundingRate": -0.00053482,
     "fundingTime": 1611619200000,
     "fundingTimeStr": "2021-01-26T00:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "DOGE_USDT",
+    "rawPair": "DOGE-USDT-SWAP",
+    "fundingRate": -0.00017327,
+    "fundingTime": 1611648000000,
+    "fundingTimeStr": "2021-01-26T08:00:00.000Z"
   }
 ]
