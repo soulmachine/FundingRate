@@ -8390,5 +8390,13 @@
     "fundingRate": 0.00018632,
     "fundingTime": 1611676800000,
     "fundingTimeStr": "2021-01-26T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "IOTA_USDT",
+    "rawPair": "IOTAUSDT",
+    "fundingRate": 0.0004456,
+    "fundingTime": 1611705600000,
+    "fundingTimeStr": "2021-01-27T00:00:00.000Z"
   }
 ]
