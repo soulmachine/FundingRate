@@ -3534,5 +3534,13 @@
     "fundingRate": 0.000454253164498352,
     "fundingTime": 1611734400000,
     "fundingTimeStr": "2021-01-27T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "KSM_USD",
+    "rawPair": "KSM-USD",
+    "fundingRate": 0.000403620896513137,
+    "fundingTime": 1611763200000,
+    "fundingTimeStr": "2021-01-27T16:00:00.000Z"
   }
 ]
