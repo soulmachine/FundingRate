@@ -2926,5 +2926,13 @@
     "fundingRate": 0.0001,
     "fundingTime": 1611878400009,
     "fundingTimeStr": "2021-01-29T00:00:00.009Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "FLM_USDT",
+    "rawPair": "FLMUSDT",
+    "fundingRate": 0.00193101,
+    "fundingTime": 1611907200000,
+    "fundingTimeStr": "2021-01-29T08:00:00.000Z"
   }
 ]
