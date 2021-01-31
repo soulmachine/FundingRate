@@ -3678,5 +3678,13 @@
     "fundingRate": 0.00240803,
     "fundingTime": 1612080000000,
     "fundingTimeStr": "2021-01-31T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "YFI_USDT",
+    "rawPair": "YFIUSDT",
+    "fundingRate": 0.00225515,
+    "fundingTime": 1612108800000,
+    "fundingTimeStr": "2021-01-31T16:00:00.000Z"
   }
 ]

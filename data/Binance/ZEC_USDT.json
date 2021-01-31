@@ -8694,5 +8694,13 @@
     "fundingRate": 0.00074048,
     "fundingTime": 1612080000000,
     "fundingTimeStr": "2021-01-31T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ZEC_USDT",
+    "rawPair": "ZECUSDT",
+    "fundingRate": 0.00062819,
+    "fundingTime": 1612108800000,
+    "fundingTimeStr": "2021-01-31T16:00:00.000Z"
   }
 ]
