@@ -8518,5 +8518,13 @@
     "fundingRate": 0.00031121,
     "fundingTime": 1612051200009,
     "fundingTimeStr": "2021-01-31T00:00:00.009Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ONT_USDT",
+    "rawPair": "ONTUSDT",
+    "fundingRate": 0.00011716,
+    "fundingTime": 1612080000000,
+    "fundingTimeStr": "2021-01-31T08:00:00.000Z"
   }
 ]
