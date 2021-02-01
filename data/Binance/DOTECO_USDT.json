@@ -278,5 +278,13 @@
     "fundingRate": 0.00166352,
     "fundingTime": 1612108800000,
     "fundingTimeStr": "2021-01-31T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "DOTECO_USDT",
+    "rawPair": "DOTECOUSDT",
+    "fundingRate": 0.00023521,
+    "fundingTime": 1612137600001,
+    "fundingTimeStr": "2021-02-01T00:00:00.001Z"
   }
 ]

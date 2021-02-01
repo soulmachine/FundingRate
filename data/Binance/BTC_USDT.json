@@ -12230,5 +12230,13 @@
     "fundingRate": 0.00044234,
     "fundingTime": 1612108800000,
     "fundingTimeStr": "2021-01-31T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "BTC_USDT",
+    "rawPair": "BTCUSDT",
+    "fundingRate": 0.00013932,
+    "fundingTime": 1612137600001,
+    "fundingTimeStr": "2021-02-01T00:00:00.001Z"
   }
 ]
