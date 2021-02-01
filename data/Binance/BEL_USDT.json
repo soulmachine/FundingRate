@@ -1798,5 +1798,13 @@
     "fundingRate": 0.00027299,
     "fundingTime": 1612137600001,
     "fundingTimeStr": "2021-02-01T00:00:00.001Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "BEL_USDT",
+    "rawPair": "BELUSDT",
+    "fundingRate": 0.00124707,
+    "fundingTime": 1612166400014,
+    "fundingTimeStr": "2021-02-01T08:00:00.014Z"
   }
 ]

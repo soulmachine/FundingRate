@@ -4078,5 +4078,13 @@
     "fundingRate": -0.00117731,
     "fundingTime": 1612166400000,
     "fundingTimeStr": "2021-02-01T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "THETA_USD",
+    "rawPair": "THETA-USD-SWAP",
+    "fundingRate": 0.00032199,
+    "fundingTime": 1612195200000,
+    "fundingTimeStr": "2021-02-01T16:00:00.000Z"
   }
 ]
