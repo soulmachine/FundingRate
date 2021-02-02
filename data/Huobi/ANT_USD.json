@@ -3966,5 +3966,13 @@
     "fundingRate": 0.000404704652737502,
     "fundingTime": 1612252800000,
     "fundingTimeStr": "2021-02-02T08:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "ANT_USD",
+    "rawPair": "ANT-USD",
+    "fundingRate": 0.000510103749154514,
+    "fundingTime": 1612281600000,
+    "fundingTimeStr": "2021-02-02T16:00:00.000Z"
   }
 ]
