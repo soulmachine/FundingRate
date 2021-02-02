@@ -8726,5 +8726,13 @@
     "fundingRate": 0.00058869,
     "fundingTime": 1612195200000,
     "fundingTimeStr": "2021-02-01T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "XTZ_USDT",
+    "rawPair": "XTZUSDT",
+    "fundingRate": 0.00071521,
+    "fundingTime": 1612224000000,
+    "fundingTimeStr": "2021-02-02T00:00:00.000Z"
   }
 ]
