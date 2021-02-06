@@ -1774,5 +1774,13 @@
     "fundingRate": 0.00300426,
     "fundingTime": 1612569600008,
     "fundingTimeStr": "2021-02-06T00:00:00.008Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ZEN_USDT",
+    "rawPair": "ZENUSDT",
+    "fundingRate": 0.00150992,
+    "fundingTime": 1612598400009,
+    "fundingTimeStr": "2021-02-06T08:00:00.009Z"
   }
 ]

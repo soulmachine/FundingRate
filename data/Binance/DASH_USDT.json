@@ -8830,5 +8830,13 @@
     "fundingRate": 0.00105407,
     "fundingTime": 1612569600008,
     "fundingTimeStr": "2021-02-06T00:00:00.008Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "DASH_USDT",
+    "rawPair": "DASHUSDT",
+    "fundingRate": 0.00067727,
+    "fundingTime": 1612598400009,
+    "fundingTimeStr": "2021-02-06T08:00:00.009Z"
   }
 ]
