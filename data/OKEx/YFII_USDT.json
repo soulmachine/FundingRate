@@ -3798,5 +3798,13 @@
     "fundingRate": -0.00015441,
     "fundingTime": 1612684800000,
     "fundingTimeStr": "2021-02-07T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "YFII_USDT",
+    "rawPair": "YFII-USDT-SWAP",
+    "fundingRate": 0.00168818,
+    "fundingTime": 1612713600000,
+    "fundingTimeStr": "2021-02-07T16:00:00.000Z"
   }
 ]
