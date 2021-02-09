@@ -5374,5 +5374,13 @@
     "fundingRate": 0.0006255,
     "fundingTime": 1612828800010,
     "fundingTimeStr": "2021-02-09T00:00:00.010Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "COMP_USDT",
+    "rawPair": "COMPUSDT",
+    "fundingRate": 0.00180048,
+    "fundingTime": 1612857600006,
+    "fundingTimeStr": "2021-02-09T08:00:00.006Z"
   }
 ]
