@@ -358,5 +358,13 @@
     "fundingRate": 0.00311402,
     "fundingTime": 1612857600006,
     "fundingTimeStr": "2021-02-09T08:00:00.006Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ANKR_USDT",
+    "rawPair": "ANKRUSDT",
+    "fundingRate": 0.00396111,
+    "fundingTime": 1612886400007,
+    "fundingTimeStr": "2021-02-09T16:00:00.007Z"
   }
 ]
