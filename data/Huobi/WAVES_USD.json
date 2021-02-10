@@ -4142,5 +4142,13 @@
     "fundingRate": 0.001386810408707327,
     "fundingTime": 1612886400000,
     "fundingTimeStr": "2021-02-09T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "WAVES_USD",
+    "rawPair": "WAVES-USD",
+    "fundingRate": 0.001048089762262326,
+    "fundingTime": 1612915200000,
+    "fundingTimeStr": "2021-02-10T00:00:00.000Z"
   }
 ]
