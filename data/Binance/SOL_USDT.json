@@ -3598,5 +3598,13 @@
     "fundingRate": 0.00332469,
     "fundingTime": 1612944000014,
     "fundingTimeStr": "2021-02-10T08:00:00.014Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "SOL_USDT",
+    "rawPair": "SOLUSDT",
+    "fundingRate": 0.00113941,
+    "fundingTime": 1612972800005,
+    "fundingTimeStr": "2021-02-10T16:00:00.005Z"
   }
 ]
