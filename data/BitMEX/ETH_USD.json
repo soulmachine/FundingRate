@@ -12478,5 +12478,13 @@
     "fundingRate": 0.00105,
     "fundingTime": 1613016000000,
     "fundingTimeStr": "2021-02-11T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "ETH_USD",
+    "rawPair": "ETHUSD",
+    "fundingRate": 0.000726,
+    "fundingTime": 1613044800000,
+    "fundingTimeStr": "2021-02-11T12:00:00.000Z"
   }
 ]
