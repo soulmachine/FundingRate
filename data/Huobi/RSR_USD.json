@@ -3886,5 +3886,13 @@
     "fundingRate": 0.00131663875912819,
     "fundingTime": 1613001600000,
     "fundingTimeStr": "2021-02-11T00:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "RSR_USD",
+    "rawPair": "RSR-USD",
+    "fundingRate": 0.000418505180837199,
+    "fundingTime": 1613030400000,
+    "fundingTimeStr": "2021-02-11T08:00:00.000Z"
   }
 ]
