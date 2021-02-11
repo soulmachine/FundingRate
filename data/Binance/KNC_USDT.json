@@ -5622,5 +5622,13 @@
     "fundingRate": 0.00137719,
     "fundingTime": 1613030400000,
     "fundingTimeStr": "2021-02-11T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "KNC_USDT",
+    "rawPair": "KNCUSDT",
+    "fundingRate": 0.00132639,
+    "fundingTime": 1613059200000,
+    "fundingTimeStr": "2021-02-11T16:00:00.000Z"
   }
 ]
