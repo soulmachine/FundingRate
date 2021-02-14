@@ -8806,5 +8806,13 @@
     "fundingRate": 0.00312845,
     "fundingTime": 1613260800013,
     "fundingTimeStr": "2021-02-14T00:00:00.013Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "BAT_USDT",
+    "rawPair": "BATUSDT",
+    "fundingRate": 0.00152725,
+    "fundingTime": 1613289600000,
+    "fundingTimeStr": "2021-02-14T08:00:00.000Z"
   }
 ]
