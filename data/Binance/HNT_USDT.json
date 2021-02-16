@@ -3374,5 +3374,13 @@
     "fundingRate": 0.00116043,
     "fundingTime": 1613404800000,
     "fundingTimeStr": "2021-02-15T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "HNT_USDT",
+    "rawPair": "HNTUSDT",
+    "fundingRate": 0.00081306,
+    "fundingTime": 1613433600001,
+    "fundingTimeStr": "2021-02-16T00:00:00.001Z"
   }
 ]

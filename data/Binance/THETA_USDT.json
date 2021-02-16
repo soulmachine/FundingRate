@@ -6366,5 +6366,13 @@
     "fundingRate": 0.00104345,
     "fundingTime": 1613404800000,
     "fundingTimeStr": "2021-02-15T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "THETA_USDT",
+    "rawPair": "THETAUSDT",
+    "fundingRate": 0.00052117,
+    "fundingTime": 1613433600001,
+    "fundingTimeStr": "2021-02-16T00:00:00.001Z"
   }
 ]
