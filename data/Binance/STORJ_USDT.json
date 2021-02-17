@@ -3710,5 +3710,13 @@
     "fundingRate": 0.0003513,
     "fundingTime": 1613520000005,
     "fundingTimeStr": "2021-02-17T00:00:00.005Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "STORJ_USDT",
+    "rawPair": "STORJUSDT",
+    "fundingRate": 0.00014059,
+    "fundingTime": 1613548800010,
+    "fundingTimeStr": "2021-02-17T08:00:00.010Z"
   }
 ]
