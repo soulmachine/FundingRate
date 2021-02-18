@@ -510,5 +510,13 @@
     "fundingRate": 0.00180332,
     "fundingTime": 1613635200000,
     "fundingTimeStr": "2021-02-18T08:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "LUNA_USDT",
+    "rawPair": "LUNAUSDT",
+    "fundingRate": 0.00336263,
+    "fundingTime": 1613664000009,
+    "fundingTimeStr": "2021-02-18T16:00:00.009Z"
   }
 ]
