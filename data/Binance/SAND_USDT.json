@@ -590,5 +590,13 @@
     "fundingRate": 0.00303372,
     "fundingTime": 1613664000009,
     "fundingTimeStr": "2021-02-18T16:00:00.009Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "SAND_USDT",
+    "rawPair": "SANDUSDT",
+    "fundingRate": 0.00211313,
+    "fundingTime": 1613692800010,
+    "fundingTimeStr": "2021-02-19T00:00:00.010Z"
   }
 ]

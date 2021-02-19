@@ -1262,5 +1262,13 @@
     "fundingRate": 0.00135694,
     "fundingTime": 1613664000009,
     "fundingTimeStr": "2021-02-18T16:00:00.009Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "CHZ_USDT",
+    "rawPair": "CHZUSDT",
+    "fundingRate": 0.00162886,
+    "fundingTime": 1613692800010,
+    "fundingTimeStr": "2021-02-19T00:00:00.010Z"
   }
 ]
