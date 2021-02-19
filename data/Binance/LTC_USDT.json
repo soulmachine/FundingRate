@@ -9766,5 +9766,13 @@
     "fundingRate": 0.00164551,
     "fundingTime": 1613692800010,
     "fundingTimeStr": "2021-02-19T00:00:00.010Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "LTC_USDT",
+    "rawPair": "LTCUSDT",
+    "fundingRate": 0.00163006,
+    "fundingTime": 1613721600002,
+    "fundingTimeStr": "2021-02-19T08:00:00.002Z"
   }
 ]
