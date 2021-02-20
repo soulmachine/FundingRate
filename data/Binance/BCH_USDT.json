@@ -10278,5 +10278,13 @@
     "fundingRate": 0.00307942,
     "fundingTime": 1613750400008,
     "fundingTimeStr": "2021-02-19T16:00:00.008Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "BCH_USDT",
+    "rawPair": "BCHUSDT",
+    "fundingRate": 0.00188768,
+    "fundingTime": 1613779200000,
+    "fundingTimeStr": "2021-02-20T00:00:00.000Z"
   }
 ]

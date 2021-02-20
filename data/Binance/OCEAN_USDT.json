@@ -2622,5 +2622,13 @@
     "fundingRate": 0.0039885,
     "fundingTime": 1613750400008,
     "fundingTimeStr": "2021-02-19T16:00:00.008Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "OCEAN_USDT",
+    "rawPair": "OCEANUSDT",
+    "fundingRate": 0.00296407,
+    "fundingTime": 1613779200000,
+    "fundingTimeStr": "2021-02-20T00:00:00.000Z"
   }
 ]

@@ -3134,5 +3134,13 @@
     "fundingRate": 0.00369761,
     "fundingTime": 1613750400008,
     "fundingTimeStr": "2021-02-19T16:00:00.008Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "TOMO_USDT",
+    "rawPair": "TOMOUSDT",
+    "fundingRate": 0.00310961,
+    "fundingTime": 1613779200000,
+    "fundingTimeStr": "2021-02-20T00:00:00.000Z"
   }
 ]
