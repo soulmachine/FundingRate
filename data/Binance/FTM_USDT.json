@@ -3646,5 +3646,13 @@
     "fundingRate": 0.00056114,
     "fundingTime": 1613980800002,
     "fundingTimeStr": "2021-02-22T08:00:00.002Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "FTM_USDT",
+    "rawPair": "FTMUSDT",
+    "fundingRate": 0.00020921,
+    "fundingTime": 1614009600000,
+    "fundingTimeStr": "2021-02-22T16:00:00.000Z"
   }
 ]
