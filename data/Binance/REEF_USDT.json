@@ -22,5 +22,13 @@
     "fundingRate": 0.00062766,
     "fundingTime": 1614038400000,
     "fundingTimeStr": "2021-02-23T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "REEF_USDT",
+    "rawPair": "REEFUSDT",
+    "fundingRate": 0.00018582,
+    "fundingTime": 1614067200006,
+    "fundingTimeStr": "2021-02-23T08:00:00.006Z"
   }
 ]
