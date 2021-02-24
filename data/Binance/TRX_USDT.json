@@ -9742,5 +9742,13 @@
     "fundingRate": -0.00041403,
     "fundingTime": 1614124800012,
     "fundingTimeStr": "2021-02-24T00:00:00.012Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "TRX_USDT",
+    "rawPair": "TRXUSDT",
+    "fundingRate": -0.00045429,
+    "fundingTime": 1614153600016,
+    "fundingTimeStr": "2021-02-24T08:00:00.016Z"
   }
 ]
