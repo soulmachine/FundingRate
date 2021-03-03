@@ -1,0 +1,10 @@
+[
+  {
+    "exchange": "Binance",
+    "pair": "XEM_USDT",
+    "rawPair": "XEMUSDT",
+    "fundingRate": -0.00101376,
+    "fundingTime": 1614758400016,
+    "fundingTimeStr": "2021-03-03T08:00:00.016Z"
+  }
+]

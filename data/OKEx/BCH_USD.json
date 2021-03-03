@@ -4798,5 +4798,13 @@
     "fundingRate": 0.00047867,
     "fundingTime": 1614758400000,
     "fundingTimeStr": "2021-03-03T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "BCH_USD",
+    "rawPair": "BCH-USD-SWAP",
+    "fundingRate": 0.00026209,
+    "fundingTime": 1614787200000,
+    "fundingTimeStr": "2021-03-03T16:00:00.000Z"
   }
 ]

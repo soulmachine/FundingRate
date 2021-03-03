@@ -3718,5 +3718,13 @@
     "fundingRate": 0.00012572,
     "fundingTime": 1614729600000,
     "fundingTimeStr": "2021-03-03T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ENJ_USDT",
+    "rawPair": "ENJUSDT",
+    "fundingRate": 0.00014985,
+    "fundingTime": 1614758400016,
+    "fundingTimeStr": "2021-03-03T08:00:00.016Z"
   }
 ]
