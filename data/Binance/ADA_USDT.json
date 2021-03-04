@@ -9838,5 +9838,13 @@
     "fundingRate": 0.00047305,
     "fundingTime": 1614844800015,
     "fundingTimeStr": "2021-03-04T08:00:00.015Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ADA_USDT",
+    "rawPair": "ADAUSDT",
+    "fundingRate": 0.0001737,
+    "fundingTime": 1614873600001,
+    "fundingTimeStr": "2021-03-04T16:00:00.001Z"
   }
 ]
