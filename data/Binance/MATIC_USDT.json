@@ -3214,5 +3214,13 @@
     "fundingRate": 0.00064552,
     "fundingTime": 1614902400000,
     "fundingTimeStr": "2021-03-05T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "MATIC_USDT",
+    "rawPair": "MATICUSDT",
+    "fundingRate": 0.00016814,
+    "fundingTime": 1614931200002,
+    "fundingTimeStr": "2021-03-05T08:00:00.002Z"
   }
 ]
