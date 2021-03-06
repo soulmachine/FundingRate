@@ -6806,5 +6806,13 @@
     "fundingRate": 0.00035845,
     "fundingTime": 1614988800000,
     "fundingTimeStr": "2021-03-06T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ALGO_USDT",
+    "rawPair": "ALGOUSDT",
+    "fundingRate": 0.0003809,
+    "fundingTime": 1615017600000,
+    "fundingTimeStr": "2021-03-06T08:00:00.000Z"
   }
 ]
