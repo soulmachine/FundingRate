@@ -4198,5 +4198,13 @@
     "fundingRate": 0.00028303,
     "fundingTime": 1615104000005,
     "fundingTimeStr": "2021-03-07T08:00:00.005Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "EGLD_USDT",
+    "rawPair": "EGLDUSDT",
+    "fundingRate": 0.0006628,
+    "fundingTime": 1615132800008,
+    "fundingTimeStr": "2021-03-07T16:00:00.008Z"
   }
 ]
