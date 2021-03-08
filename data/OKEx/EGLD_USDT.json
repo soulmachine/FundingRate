@@ -1830,5 +1830,13 @@
     "fundingRate": 0.00072431,
     "fundingTime": 1615190400000,
     "fundingTimeStr": "2021-03-08T08:00:00.000Z"
+  },
+  {
+    "exchange": "OKEx",
+    "pair": "EGLD_USDT",
+    "rawPair": "EGLD-USDT-SWAP",
+    "fundingRate": 0.00185355,
+    "fundingTime": 1615219200000,
+    "fundingTimeStr": "2021-03-08T16:00:00.000Z"
   }
 ]
