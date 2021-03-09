@@ -118,5 +118,13 @@
     "fundingRate": 0.00091769,
     "fundingTime": 1615248000000,
     "fundingTimeStr": "2021-03-09T00:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "BTCST_USDT",
+    "rawPair": "BTCSTUSDT",
+    "fundingRate": 0.00051339,
+    "fundingTime": 1615276800000,
+    "fundingTimeStr": "2021-03-09T08:00:00.000Z"
   }
 ]
