@@ -11246,5 +11246,13 @@
     "fundingRate": 0.00101744,
     "fundingTime": 1615305600000,
     "fundingTimeStr": "2021-03-09T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ETH_USDT",
+    "rawPair": "ETHUSDT",
+    "fundingRate": 0.00058485,
+    "fundingTime": 1615334400009,
+    "fundingTimeStr": "2021-03-10T00:00:00.009Z"
   }
 ]
