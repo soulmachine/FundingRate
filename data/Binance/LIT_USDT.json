@@ -534,5 +534,13 @@
     "fundingRate": 0.00136349,
     "fundingTime": 1615536000005,
     "fundingTimeStr": "2021-03-12T08:00:00.005Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "LIT_USDT",
+    "rawPair": "LITUSDT",
+    "fundingRate": 0.00042094,
+    "fundingTime": 1615564800011,
+    "fundingTimeStr": "2021-03-12T16:00:00.011Z"
   }
 ]
