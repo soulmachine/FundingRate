@@ -510,5 +510,13 @@
     "fundingRate": 0.00063291,
     "fundingTime": 1615564800011,
     "fundingTimeStr": "2021-03-12T16:00:00.011Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "DODO_USDT",
+    "rawPair": "DODOUSDT",
+    "fundingRate": 0.00064504,
+    "fundingTime": 1615593600000,
+    "fundingTimeStr": "2021-03-13T00:00:00.000Z"
   }
 ]
