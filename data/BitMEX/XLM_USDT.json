@@ -70,5 +70,13 @@
     "fundingRate": 0.002629,
     "fundingTime": 1615608000000,
     "fundingTimeStr": "2021-03-13T04:00:00.000Z"
+  },
+  {
+    "exchange": "BitMEX",
+    "pair": "XLM_USDT",
+    "rawPair": "XLMUSDT",
+    "fundingRate": 0.002128,
+    "fundingTime": 1615636800000,
+    "fundingTimeStr": "2021-03-13T12:00:00.000Z"
   }
 ]
