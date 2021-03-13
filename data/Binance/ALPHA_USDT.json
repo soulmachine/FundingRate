@@ -2646,5 +2646,13 @@
     "fundingRate": 0.00058031,
     "fundingTime": 1615622400002,
     "fundingTimeStr": "2021-03-13T08:00:00.002Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ALPHA_USDT",
+    "rawPair": "ALPHAUSDT",
+    "fundingRate": 0.00157758,
+    "fundingTime": 1615651200000,
+    "fundingTimeStr": "2021-03-13T16:00:00.000Z"
   }
 ]
