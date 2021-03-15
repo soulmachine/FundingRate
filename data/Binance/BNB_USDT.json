@@ -9582,5 +9582,13 @@
     "fundingRate": 0.00120751,
     "fundingTime": 1615795200016,
     "fundingTimeStr": "2021-03-15T08:00:00.016Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "BNB_USDT",
+    "rawPair": "BNBUSDT",
+    "fundingRate": 0.00017538,
+    "fundingTime": 1615824000030,
+    "fundingTimeStr": "2021-03-15T16:00:00.030Z"
   }
 ]

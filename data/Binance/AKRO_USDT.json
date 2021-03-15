@@ -1326,5 +1326,13 @@
     "fundingRate": 0.00134753,
     "fundingTime": 1615795200016,
     "fundingTimeStr": "2021-03-15T08:00:00.016Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "AKRO_USDT",
+    "rawPair": "AKROUSDT",
+    "fundingRate": 0.00023059,
+    "fundingTime": 1615824000030,
+    "fundingTimeStr": "2021-03-15T16:00:00.030Z"
   }
 ]
