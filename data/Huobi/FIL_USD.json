@@ -3574,5 +3574,13 @@
     "fundingRate": 0.0009450041685744,
     "fundingTime": 1615737600000,
     "fundingTimeStr": "2021-03-14T16:00:00.000Z"
+  },
+  {
+    "exchange": "Huobi",
+    "pair": "FIL_USD",
+    "rawPair": "FIL-USD",
+    "fundingRate": 0.00102474575605679,
+    "fundingTime": 1615766400000,
+    "fundingTimeStr": "2021-03-15T00:00:00.000Z"
   }
 ]

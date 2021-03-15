@@ -10166,5 +10166,13 @@
     "fundingRate": 0.00146484,
     "fundingTime": 1615737600000,
     "fundingTimeStr": "2021-03-14T16:00:00.000Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "ETC_USDT",
+    "rawPair": "ETCUSDT",
+    "fundingRate": 0.00123623,
+    "fundingTime": 1615766400012,
+    "fundingTimeStr": "2021-03-15T00:00:00.012Z"
   }
 ]
