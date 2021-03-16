@@ -9494,5 +9494,13 @@
     "fundingRate": 0.00041101,
     "fundingTime": 1615824000030,
     "fundingTimeStr": "2021-03-15T16:00:00.030Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "VET_USDT",
+    "rawPair": "VETUSDT",
+    "fundingRate": 0.00026782,
+    "fundingTime": 1615852800005,
+    "fundingTimeStr": "2021-03-16T00:00:00.005Z"
   }
 ]
