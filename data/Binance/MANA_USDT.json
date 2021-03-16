@@ -30,5 +30,13 @@
     "fundingRate": 0.00058025,
     "fundingTime": 1615881600008,
     "fundingTimeStr": "2021-03-16T08:00:00.008Z"
+  },
+  {
+    "exchange": "Binance",
+    "pair": "MANA_USDT",
+    "rawPair": "MANAUSDT",
+    "fundingRate": 0.00046844,
+    "fundingTime": 1615910400012,
+    "fundingTimeStr": "2021-03-16T16:00:00.012Z"
   }
 ]
